@@ -34,9 +34,7 @@ public class MainActivity extends AppCompatActivity {
                 if(item.getItemId()==R.id.menu_chat){
                     getSupportFragmentManager().beginTransaction().replace(R.id.main_frame_layout,chatFragment).commit();
                 }
-                if(item.getItemId()==R.id.menu_profile){
-                    getSupportFragmentManager().beginTransaction().replace(R.id.main_frame_layout,profileFragment).commit();
-                }
+             
                 return true;
             }
         });
