@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204800914441",
+    "project_id": "small-talk-backend",
+    "storage_bucket": "small-talk-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204800914441:android:4dd97a5cb9dfc51161f4d8",
+        "android_client_info": {
+          "package_name": "com.example.smalltalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204800914441-lce0u2qu0oib241isar911rmglvruld1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHk4JU40TQpPUpgbgReQtJuLpmuO9jmAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204800914441-lce0u2qu0oib241isar911rmglvruld1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
